@@ -1,0 +1,4 @@
+# Ensure git does not change line endings (CRLF vs LF) when serving the hex file.
+# This is because the hex was compiled and hashed on Windows (CRLF), whereas git will serve with LF,
+# meaning that the hash will be different when downloaded
+*.hex -text
