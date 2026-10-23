@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "releaseId": "1_1_0",
   "hardwareVersion": "due-bootloader",
-  "createdAt": "2026-10-23T10:57:53Z",
+  "createdAt": "2026-10-23T11:21:57Z",
   "artefacts": [
     {
       "id": "atmega16u2",
