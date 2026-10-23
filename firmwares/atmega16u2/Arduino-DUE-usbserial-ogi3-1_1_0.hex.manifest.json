@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "releaseId": "1_1_0",
+  "hardwareVersion": "due-bootloader",
+  "createdAt": "2026-10-23T10:57:53Z",
+  "artefacts": [
+    {
+      "id": "atmega16u2",
+      "path": "firmwares/atmega16u2/Arduino-DUE-usbserial-ogi3-1_1_0.hex",
+      "sizeBytes": 12164,
+      "sha256": "a3d559c373bae1433e9f713cbcdfd98906d4e48f4dfb1e92a29d650ced77f3e3"
+    }
+  ]
+}
